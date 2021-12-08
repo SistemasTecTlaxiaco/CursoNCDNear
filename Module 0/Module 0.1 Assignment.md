@@ -18,6 +18,7 @@
     
 3. [Visualizar] (https://near.academy/), Solucionar reto y [Resolver] (https://near.academy/#freeCourse- Resolución de problemas) 
 
+## Retroalimentación en Kahoot
 
 ## Envio de tarea
 Enviar evidencia de tarea en una incidecia
