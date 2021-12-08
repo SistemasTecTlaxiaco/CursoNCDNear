@@ -1,8 +1,11 @@
 # Tarea 0.1: Primeros pasos en Protocolo de Near 
 1. Para poder empezar a comprender la tecnología Web 3.0 es necesario leer los siguientes tópicos del protocolo Near
-    - ¿Que es el Protocolo Near (https://medium.com/near-hispano-blog/near-para-principiantes-35f64e26ef40) 
-    - El protocolo del futuro near (https://medium.com/near-hispano-blog/bienvenidos-al-protocolo-near-el-protocolo-del-futuro-11e7c29f0edd)
-1. Regístrese para obtener una cuenta en [github.com] (https://github.com/).
+    - ¿Que es el Protocolo Near (https://medium.com/near-hispano-blog/near-para-principiantes-35f64e26ef40) Lectura de 15 minutos 
+    - El protocolo del futuro near (https://medium.com/near-hispano-blog/bienvenidos-al-protocolo-near-el-protocolo-del-futuro-11e7c29f0edd) Lectura de 15 minutos
+    - Leer sobre la arquitectura de Near Protocol (https://docs.google.com/presentation/d/1jNpzqRAm44HGefgrlOpXV-qwJQQ1X8JOBSpxhkUNchI/edit) Lectura de 60 minutos  
+    - visualizar el video del desarrollo de un BootCamp para Desarrolladores profesionales (https://www.youtube.com/watch?v=KRaWm_8syTM&list=PLixWO0N_iFTMarVxgWxgNIth_OnucumOE&index=1) 
+    - 
+2 . Regístrese para obtener una cuenta en [github.com] (https://github.com/).
 2. [Descargar] (https://git-scm.com/downloads), instalar y [configurar] (https://git-scm.com/book/en/v2/Getting-Started-First-Time- Configuración de Git) git. Los usuarios de Windows deben instalar [Git para Windows] (https://gitforwindows.org/).
 3. Si es nuevo en Git, GitHub y la línea de comandos, le recomendamos [descargar ATOM] (https://atom.io/), un editor de texto, que está disponible para Mac, Linux y Windows. ATOM se utilizará en todos los módulos.
 
