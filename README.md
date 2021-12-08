@@ -1,4 +1,4 @@
-# Bienvenido al Curso de Campus Advisor de Aulas Agiles
+# Bienvenido al Curso de Desarrolladores de Near
 Bienvenido a la formación de Campus Advisor. ¡Estamos tan felices de que estés aquí!
 
 En esta capacitación, se le presentará una combinación de lecciones y asignaciones en video. Todos los videos y asignaciones se pueden encontrar en este repositorio en sus respectivos módulos.  
