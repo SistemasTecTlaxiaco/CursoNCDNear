@@ -42,6 +42,12 @@ Para revisar la documentación oficial de eduScrum (https://eduscrum.org/)
 ## ¿Si tiene alguna duda?
 Existe un canal de comunicación de acuerdo al canal creado u otros canales de varios proyectos de la comunidad Near Hispano
 (https://discord.gg/XDZGfAXCZJ)
+
+#equipo-numero -> comunicación en equipos
+#informacion -> informacion relevante durante el entrenamiento
+#preguntas -> Resolucion de dudas
+#comunicacion-diaria -> Comunicación diaria 
+
 ## Compromisos del participante y equipo desarrollador
 - Comunicación diaria con cualquier medio de comunicación electrónica  (Whatsapp, Messenger u algun otro medio como zoom o herramienta seleccionada) 
 - Los equipos de desarrollo pueden ser de 3 a 4 estudiantes
