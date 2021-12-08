@@ -44,9 +44,9 @@ Existe un canal de comunicación de acuerdo al canal creado u otros canales de v
 (https://discord.gg/XDZGfAXCZJ)
 
 #equipo-numero -> comunicación en equipos
-#informacion -> informacion relevante durante el entrenamiento
-#preguntas -> Resolucion de dudas
-#comunicacion-diaria -> Comunicación diaria 
+- Informacion -> informacion relevante durante el entrenamiento
+- Preguntas -> Resolucion de dudas
+- Comunicacion-diaria -> Comunicación diaria 
 
 ## Compromisos del participante y equipo desarrollador
 - Comunicación diaria con cualquier medio de comunicación electrónica  (Whatsapp, Messenger u algun otro medio como zoom o herramienta seleccionada) 
