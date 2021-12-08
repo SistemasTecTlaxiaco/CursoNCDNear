@@ -10,8 +10,9 @@
     -Cuenta MainNet
     -Cuenta TestNet
     
-3. [Visualizar] (https://near.academy/), Solucionar reto y [Resolver] (https://git-scm.com/book/en/v2/Getting-Started-First-Time- Configuración de Git) git. Los usuarios de Windows deben instalar [Git para Windows] (https://gitforwindows.org/).
-3. Si es nuevo en Git, GitHub y la línea de comandos, le recomendamos [descargar ATOM] (https://atom.io/), un editor de texto, que está disponible para Mac, Linux y Windows. ATOM se utilizará en todos los módulos.
+3. [Visualizar] (https://near.academy/), Solucionar reto y [Resolver] (https://near.academy/#freeCourse- Resolución de problemas) 
+
+5. Si es nuevo en Git, GitHub y la línea de comandos, le recomendamos [descargar ATOM] (https://atom.io/), un editor de texto, que está disponible para Mac, Linux y Windows. ATOM se utilizará en todos los módulos.
     #### Configuracion de Mac and Linux
       Si está utilizando una máquina Mac o Linux, le recomendaría seguir estas instrucciones para configurar la línea de comandos ATOM:
       - [Instrucciones de la línea de comandos ATOM] (https://youtu.be/h5xcw8_8gaE)
