@@ -10,6 +10,6 @@ Nos alegramos de que pudieras unirte a nosotros. Trabajaremos juntos durante  el
 ## Leccion
 Todos los archivos de tareas se pueden encontrar en la parte superior de esta página.
 
--  📺 [Modulo  0.0 Video](https://www.youtube.com/watch?v=-Fil8HsEgpI)
+-  📺 [Modulo  0.0 Video](https://www.youtube.com/watch?v=-Fil8HsEgpI) Puedes utilizar la traducción utilizando subtitulos.
 -  📓 Complete el Module 0.1 Asignación
 -  📓 Complete Module 0.2 Asignación
