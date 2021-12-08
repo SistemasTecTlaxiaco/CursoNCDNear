@@ -2,7 +2,8 @@
 
 Bienvenido al Modulo 0! de NEAR Certified Developers L1
 
-En este módulo, lo prepararemos con todo lo que necesita para completar la capacitación de Campus Advisor con Aulas Agiles
+Este curso es una oportunidad para que los desarrolladores web obtengan un Certificado de finalización que representa la capacidad de diseñar, desarrollar, probar y desplegar contratos inteligentes.
+
 ## Leccion
 Todos los archivos de tareas se pueden encontrar en la parte superior de esta página.
 
