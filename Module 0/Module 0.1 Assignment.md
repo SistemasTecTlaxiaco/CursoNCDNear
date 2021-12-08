@@ -4,7 +4,7 @@
     - El protocolo del futuro Near (https://medium.com/near-hispano-blog/bienvenidos-al-protocolo-near-el-protocolo-del-futuro-11e7c29f0edd) Lectura de 15 minutos
     - Leer sobre la arquitectura de Near Protocol (https://docs.google.com/presentation/d/1jNpzqRAm44HGefgrlOpXV-qwJQQ1X8JOBSpxhkUNchI/edit) Lectura de 60 minutos  
     - Visualizar el video del desarrollo de un BootCamp para Desarrolladores profesionales (https://www.youtube.com/watch?v=KRaWm_8syTM&list=PLixWO0N_iFTMarVxgWxgNIth_OnucumOE&index=1) Lectura 60 minutos
-    - Visualizar el video del canal Near Hispano para la presentacion de un proyecto (https://www.youtube.com/watch?v=dRoFVz-OlBE&list=PLixWO0N_iFTMarVxgWxgNIth_OnucumOE&index=6&t=4274s) Visualización 60 minutos
+    - Visualizar el video del canal Near Hispano para la presentacion de un proyecto DemoDay (https://www.youtube.com/watch?v=dRoFVz-OlBE&list=PLixWO0N_iFTMarVxgWxgNIth_OnucumOE&index=6&t=4274s) Visualización 60 minutos
      
 2 . Regístrese para obtener una cuenta en [github.com] (https://github.com/).
 2. [Descargar] (https://git-scm.com/downloads), instalar y [configurar] (https://git-scm.com/book/en/v2/Getting-Started-First-Time- Configuración de Git) git. Los usuarios de Windows deben instalar [Git para Windows] (https://gitforwindows.org/).
