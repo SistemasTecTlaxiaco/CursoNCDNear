@@ -17,4 +17,4 @@ Algunas aplicaciones de Teacher Toolbox requieren una revisión manual, por lo q
 ## Tarea para envio
 1. Enviar una incidencia con la evidencia de una imagen de la ejecucion de una línea de comando comando ejecutandose en la terminal
 1.1 Enviar en la misma incidencia una imagen de ejecución de una línea de comando en Git
-1.2 Enviar en la misma incidencia una imagen de una cuenta en GitHu
+1.2 Enviar en la misma incidencia una imagen de una cuenta en GitHub
