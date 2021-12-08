@@ -1,5 +1,7 @@
 # Tarea 0.1: Primeros pasos en Protocolo de Near 
 1. Para poder empezar a comprender la tecnología Web 3.0 es necesario leer los siguientes tópicos del protocolo Near
+    - ¿Que son las criptomonedas? 
+    - ¿Que es la blockchain? 
     - ¿Que es el Protocolo Near (https://medium.com/near-hispano-blog/near-para-principiantes-35f64e26ef40) Lectura de 15 minutos 
     
     - El protocolo del futuro Near (https://medium.com/near-hispano-blog/bienvenidos-al-protocolo-near-el-protocolo-del-futuro-11e7c29f0edd) Lectura de 15 minutos
