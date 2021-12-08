@@ -6,8 +6,11 @@
     - Visualizar el video del desarrollo de un BootCamp para Desarrolladores profesionales (https://www.youtube.com/watch?v=KRaWm_8syTM&list=PLixWO0N_iFTMarVxgWxgNIth_OnucumOE&index=1) Lectura 60 minutos
     - Visualizar el video del canal Near Hispano para la presentacion de un proyecto DemoDay (https://www.youtube.com/watch?v=dRoFVz-OlBE&list=PLixWO0N_iFTMarVxgWxgNIth_OnucumOE&index=6&t=4274s) Visualización 60 minutos
      
-2 . Regístrese para obtener una cuenta en [wallet.near.org/] (https://wallet.near.org/).
-2. [Descargar] (https://git-scm.com/downloads), instalar y [configurar] (https://git-scm.com/book/en/v2/Getting-Started-First-Time- Configuración de Git) git. Los usuarios de Windows deben instalar [Git para Windows] (https://gitforwindows.org/).
+2 . Regístrese para obtener una cuenta en [wallet.near.org/] (https://wallet.near.org/)
+    -Cuenta MainNet
+    -Cuenta TestNet
+    
+3. [Visualizar] (https://near.academy/), Solucionar reto y [Resolver] (https://git-scm.com/book/en/v2/Getting-Started-First-Time- Configuración de Git) git. Los usuarios de Windows deben instalar [Git para Windows] (https://gitforwindows.org/).
 3. Si es nuevo en Git, GitHub y la línea de comandos, le recomendamos [descargar ATOM] (https://atom.io/), un editor de texto, que está disponible para Mac, Linux y Windows. ATOM se utilizará en todos los módulos.
     #### Configuracion de Mac and Linux
       Si está utilizando una máquina Mac o Linux, le recomendaría seguir estas instrucciones para configurar la línea de comandos ATOM:
