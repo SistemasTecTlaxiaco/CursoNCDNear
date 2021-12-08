@@ -1,4 +1,4 @@
-# Tarea 2: Caja de herramientas para utilizar el Protocolo Nearel NEAR Certified Developers L1
+# Tarea 2: Caja de herramientas para utilizar el Protocolo NEAR Certified Developers L1
 
 Para convertirse en un desarrollador  de el NEAR Certified Developers L1, necesitará la Caja de herramientas para desarrolladores y habilidades tecnicas  (si aún no la tiene). Visite los siguientes links.
 
@@ -15,5 +15,6 @@ Para convertirse en un desarrollador  de el NEAR Certified Developers L1, necesi
 Algunas aplicaciones de Teacher Toolbox requieren una revisión manual, por lo que le recomendamos que presente su solicitud al comienzo de su capacitación si planea convertirse en un asesor de campus de GitHub. Una vez que haya presentado la solicitud, su página de confirmación indicará aproximadamente cuánto tiempo puede demorar la revisión de su solicitud.
 
 ## Tarea para envio
-1. Enviar una incidencia con la evidencia de una imagen de la ejecucion de una línea de comando comando  Ejemplo ls en la línea de comando
-2. 
+1. Enviar una incidencia con la evidencia de una imagen de la ejecucion de una línea de comando comando ejecutandose en la terminal
+1.1 Enviar en la misma incidencia una imagen de ejecución de una línea de comando en Git
+1.2 Enviar en la misma incidencia una imagen de una cuenta en GitHu
