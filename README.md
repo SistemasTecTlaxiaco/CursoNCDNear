@@ -38,6 +38,12 @@ con los siguientes artefactos
 - Retrospectiva (sprint retrospective) 
 
 Para revisar la documentación oficial de eduScrum (https://eduscrum.org/)
+
 ## ¿Si tiene alguna duda?
 Existe un canal de comunicación de acuerdo al canal creado u otros canales de varios proyectos de la comunidad Near Hispano
-(https://discord.gg/XDZGfAXCZJ) 
+(https://discord.gg/XDZGfAXCZJ)
+## Compromisos del participante y equipo desarrollador
+- Comunicación diaria con cualquier medio de comunicación electrónica  (Whatsapp, Messenger u algun otro medio como zoom o herramienta seleccionada) 
+- Los equipos de desarrollo pueden ser de 3 a 4 estudiantes
+- Subir las evidencias de progreso académico en una incidencia para ser liberada por el profesor o entrenador 
+- Presentar el proyecto final para lograr la certificación por parte de Near Hispano
