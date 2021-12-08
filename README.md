@@ -20,7 +20,6 @@ Repaso de este programa.
  ## Recompensas 
 Al finalizar de forma satisfactoria este entrenamiento otorgamos recompenzas (si, te recompenzamos por aprender 🔥)
 Certificado como NEAR Certified Developer en forma digital y en forma de NFT.
-Recompenza de 125 USD para los participantes que presenten su contrato inteligente en el demo day.
 
 ## Este es tu entrenamiento
 Es beneficioso que aproveche los recursos que se le presentan en este entranamiento conitnuo y ademas bastante productivo.
