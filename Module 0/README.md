@@ -1,6 +1,6 @@
 # Modulo 0 Presentación
 
-Bienvenido al Modulo 0!
+Bienvenido al Modulo 0! de NEAR Certified Developers L1
 
 En este módulo, lo prepararemos con todo lo que necesita para completar la capacitación de Campus Advisor con Aulas Agiles
 ## Leccion
