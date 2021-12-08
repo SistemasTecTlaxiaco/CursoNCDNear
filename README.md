@@ -1,26 +1,43 @@
-# Bienvenido al Curso de Desarrolladores de Near
-Bienvenido a la formación de Campus Advisor. ¡Estamos tan felices de que estés aquí!
+# Bienvenido al Curso de Desarrolladores del protocolo de Near
+Bienvenido a la formación de del protocolo de Near ¡Estamos tan felices de que estés aquí! 
 
-En esta capacitación, se le presentará una combinación de lecciones y asignaciones en video. Todos los videos, recursos  y asignaciones se pueden encontrar en este repositorio en sus respectivos módulos.  
+En esta capacitación, se le presentará una combinación de lecciones, asignaciones en video y recursos. Todos los videos, recursos  y asignaciones se pueden encontrar en este repositorio en sus respectivos módulos.  
 
-En cada módulo, encontrará lecciones en video marcadas con este ícono 📺 y las asignaciones estarán marcadas con este ícono 📓.
+En cada módulo, encontrará lecciones en video marcadas con este ícono 📺 y las asignaciones estarán marcadas con este ícono 📓 y los recursos 
 
-## Para empezar
+## Bienvenida
 Su viaje comienza en el Módulo 0, donde configurará todo lo que necesita para completar la capacitación.
 
-## Cuando Termines
-Una vez que haya completado la capacitación, puede terminar allí con sus nuevos conocimientos. Si desea dar un paso más, es posible que desee convertirse en un profesional de la tecnología de Near
+## Objetivos del programa de Certificación del Protocolo de Near 
 
-Los asesores de campus de GitHub son una comunidad de líderes educadores que defienden las herramientas de la industria en su aula. Como asesor del campus, usted:
-- Únase a una red de colaboración que le permite aprender de sus compañeros, ver cómo apoyan sus aulas y compartir sus propios consejos.
-- Recibir soporte de desarrollo profesional de GitHub
-- Ser invitado a participar en conferencias patrocinadas por GitHub Education
- 
-Los educadores que hayan sido aprobados para los beneficios de la facultad a través de la Caja de herramientas para maestros de GitHub pueden postularse para convertirse en Asesores de campus.
-Una vez que haya completado los Módulos 1-4, puede encontrar un enlace a la aplicación Campus Advisor en [GitHub Teacher Toolbox] (https://education.github.com/toolbox/offers). Después de completarlo, revisaremos sus materiales de capacitación y nos pondremos en contacto con usted para programar una breve entrevista de 15 minutos.
+Repaso de este programa.
+- Durante este entrenamiento buscamos que seas capaz de desarrollar las siguientes habilidades:
+- Entender el concepto actual de la web3 en el desarrollo de aplicaciones descentralizadas (DApps)
+- Conocer el Protocolo de NEAR, sus principales DApps y sus diferencias con otros protocolos de blockchain.
+- Identificar y facilitar contenido, conceptos técnicos acerca del protocolo blockchain de NEAR.
+- Diseñar un programa NCD propio y personalizado, aplicable a su institución y/o academia.
+
+ ## Recompensas 
+Al finalizar de forma satisfactoria este entrenamiento otorgamos recompenzas (si, te recompenzamos por aprender 🔥)
+Certificado como NEAR Certified Developer en forma digital y en forma de NFT.
+Recompenza de 125 USD para los participantes que presenten su contrato inteligente en el demo day.
 
 ## Este es tu entrenamiento
-Es beneficioso que aproveche los recursos que se le presentan, pero si encuentra casos en los que se pueden mejorar las cosas, cree un problema en el repositorio original [aquí] (https://github.com/github-campus-advisors / Campus-Asesor-Formación / cuestiones). Si no está familiarizado con los problemas en GitHub, no se preocupe, pronto los conocerá.
+Es beneficioso que aproveche los recursos que se le presentan en este entranamiento conitnuo y ademas bastante productivo.
+Primera lectura del Protocolo ¿Que es el protocolo Near?
+(https://medium.com/near-hispano-blog/bienvenidos-al-protocolo-near-el-protocolo-del-futuro-11e7c29f0edd)
 
-## Preguntas
-Si tiene alguna pregunta sobre la configuración o sobre cualquiera de los módulos de aprendizaje, diríjase a la [Comunidad educativa de GitHub] (https://education.github.community/c/teachers/advisors) para obtener ayuda.
+## Metodología de enseñanza EduScrum
+
+Se aplicará par apoder realizar el entrenamiento el marco de trabajo EduScrum con los siguientes artefactos para poder realizar una productividad académica
+con los siguientes artefactos
+- Planeacion de las actividades (sprint planning)
+- Ejecución del sprint (sprint)
+- Revision del sprint (sprint review) 
+- Presentación del proyecto 
+- Retrospectiva (sprint retrospective) 
+
+Para revisar la documentación oficial de eduScrum (https://eduscrum.org/)
+## ¿Si tiene alguna duda?
+Existe un canal de comunicación de acuerdo al canal creado u otros canales de varios proyectos de la comunidad Near Hispano
+(https://discord.gg/XDZGfAXCZJ) 
