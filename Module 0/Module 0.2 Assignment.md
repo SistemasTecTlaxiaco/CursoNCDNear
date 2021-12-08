@@ -1,4 +1,4 @@
-# Tarea 2: Caja de herramientas del profesor
+# Tarea 2: Caja de herramientas para utilizar el Protocolo Near
 Para convertirse en un asesor de campus de GitHub, necesitará la Caja de herramientas para profesores (si aún no la tiene).
 Dirígete a [Teacher Toolbox] (https://education.github.com/toolbox) y completa la solicitud. Deberá proporcionar una prueba fechada de que es miembro de la facultad de su institución, así que téngala a mano.
 
