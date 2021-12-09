@@ -32,6 +32,7 @@ Se aplicará par apoder realizar el entrenamiento el marco de trabajo EduScrum c
 con los siguientes artefactos
 - Planeacion de las actividades (sprint planning)
 - Ejecución del sprint (sprint)
+- Reunión diaria (daily scrum) 
 - Revision del sprint (sprint review) 
 - Presentación del proyecto 
 - Retrospectiva (sprint retrospective) 
