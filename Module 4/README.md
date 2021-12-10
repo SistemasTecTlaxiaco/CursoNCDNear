@@ -1,4 +1,4 @@
-# Bienvenido al Módulo 4: Educación de GitHub
+# Bienvenido al Módulo 4: Implementar en TestNet los contratos inteligentes 
 En este módulo, se le presentará a GitHub Education y algunas de las oportunidades que ponemos a disposición de los estudiantes.
 ## Lecciones
 
