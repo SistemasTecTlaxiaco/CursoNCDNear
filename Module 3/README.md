@@ -1,4 +1,4 @@
-# Bienvenido al Módulo 3: Aula de GitHub
+# Bienvenido al Módulo 3: Pruebas unitarias a contratos inteligentes
 
 ¡Bienvenido al Módulo 3! En este módulo, se le presentará GitHub Classroom. Aprenderás:
 - Cómo automatizar y escalar tus clases
