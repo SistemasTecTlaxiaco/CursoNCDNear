@@ -1,4 +1,4 @@
-# Bienvenido al Módulo 1: Conceptos básicos de Git
+# Bienvenido al Módulo 1: Comprensión de contratos inteligentes con lenguajes de programación
 
 En este módulo se le presentará a Git. Este módulo cubrirá:
 
