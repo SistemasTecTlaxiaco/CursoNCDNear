@@ -1,4 +1,4 @@
-# Bienvenido al Módulo 2: Conceptos básicos de GitHub
+# Bienvenido al Módulo 2: Escribir código fuente para contratos inteligentes en lenguajes de  programación.
 
 En este módulo, se le presentará GitHub. Este módulo cubrirá:
 
